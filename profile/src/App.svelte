@@ -39,7 +39,7 @@
 					<option value="horrible">Horrible</option>
 				</select>
 				{#if (feeling === "select")}
-					<p>p</p>
+					<p></p>
 				{:else if (feeling === "good")}
 					<div>
 						<h1>Thats good!</h1>
